@@ -1,0 +1,20 @@
+Capstone Project: BRICS Analysis
+
+This text file is provided for understanding how to run the 4 different ipynb notebooks and the relevant datasets.
+My Capstone was done in an iterative fashion and altering the datasets multiple times. The order that the notebooks should be opened and run are:
+
+	1. Capstone Project Data Preparation
+	2. Capstone Project Cleaning
+	3. Capstone Project EDA
+	4. Capstone Project Modeling
+
+If the notebooks are run in this order, the code should work and you will be able to see my Capstone Project and future plans.
+I have also included a Data folder with all the datasets that were used, created, and not used.
+Since I created and altered many datasets during my Capstone, there are some datasets that were not used for the analysis.
+I believe I have included all the datasets and the final one with the relevant features "df_answer."
+
+On a side note, the 2nd notebook seems to take a long time to open and when I open it on my computer, Anaconda slows down considerably.
+Let me know if there are any problems and I hope I have included all the material needed for my Capstone Project.
+
+Sincerely,
+Ryan Kidd
